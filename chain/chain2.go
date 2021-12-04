@@ -1,6 +1,6 @@
 /*
 *@Time        : 2021/07/05
-*@Creator     : lu.kaicheng 10261316
+*@Creator     : 
 *@File        : chain2.go
 *@Description : 责任链模式。链式实现
  */
