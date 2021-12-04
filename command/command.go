@@ -1,7 +1,7 @@
 
 /*
 *@Time        : 2021/07/03
-*@Creator     : lu.kaicheng 10261316
+*@Creator     : 
 *@File        : command.go
 *@Description : 命令模式。面向对象实现
  */
