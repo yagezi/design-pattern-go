@@ -1,6 +1,6 @@
 /*
 *@Time        : 2021/06/25
-*@Creator     : lu.kaicheng 10261316
+*@Creator     : 
 *@File        : object_adapter.go
 *@Description : 适配器模式扩展：对象适配器，通过组合实现适配
  */
