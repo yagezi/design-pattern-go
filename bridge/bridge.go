@@ -1,7 +1,7 @@
 
 /*
 *@Time        : 2021/06/25
-*@Creator     : lu.kaicheng 10261316
+*@Creator     : 
 *@File        : bridge.go
 *@Description : 桥接模式。抽象和实现解耦
  */
