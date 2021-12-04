@@ -1,6 +1,6 @@
 /*
 *@Time        : 2021/07/03
-*@Creator     : lu.kaicheng 10261316
+*@Creator     : 
 *@File        : command2.go
 *@Description : 命令模式。函数式编程实现
  */
