@@ -1,6 +1,6 @@
 /*
 *@Time        : 2021/06/25
-*@Creator     : lu.kaicheng 10261316
+*@Creator     : 
 *@File        : adapter.go
 *@Description : 适配器模式:类适配器，通过继承实现适配
  */
